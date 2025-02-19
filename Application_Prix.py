@@ -17,7 +17,6 @@ st.markdown("""
         <p style="font-size: 18px;">Développé par <b>BONKOUNGOU Emmanuel, MANTHO Livine Larissa
 et MISSENGUE MOULOMBO Exaucée </b></p>
         <p style="font-size: 18px;">Sous la supervision de <b>M. Serge NDOUMIN </b></p>
-        <img src="https://source.unsplash.com/800x200/?stocks,finance" width="800">
     </div>
 """, unsafe_allow_html=True)
 
