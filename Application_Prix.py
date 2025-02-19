@@ -22,7 +22,7 @@ et MISSENGUE MOULOMBO Exaucée </b></p>
 
 
 
-st.sidebar.image("https://source.unsplash.com/200x100/?finance,market", use_column_width=True)
+
 st.sidebar.title("🔍 Options")
 st.sidebar.info("Bienvenue sur notre application de prédiction boursière. \nSélectionnez vos paramètres et analysez les tendances.")
 
